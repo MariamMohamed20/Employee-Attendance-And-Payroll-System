@@ -136,6 +136,5 @@ This project demonstrates:
 
 ---
 
-## Authors
 
-Developed as part of a Database Systems course project using Oracle SQL Developer.
+Developed as part of a Advanced Database Systems course project using Oracle SQL Developer.
